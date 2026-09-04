@@ -1,7 +1,8 @@
 Tipsters DAO
-Crowdfunding for people who need to move, heal, and rebuild.
 
-Tipsters DAO is a coordination layer built on LitVM. Stakers govern campaigns, approve bounties, and ensure funds reach those who need them — transparently, on-chain.
+Protect People Who Expose Predators
+
+Tipsters DAO is a coordination layer. Stakers govern campaigns, approve bounties, and ensure funds reach those who need them — transparently, on-chain.
 
 Features
 Campaign Factory — Clone pattern for creating tiered crowdfunding campaigns
